@@ -1,0 +1,25 @@
+h3 {
+    color: grey;
+}
+
+.edit {
+    color: darkgreen;
+}
+.delete {
+    color: darkred;
+}
+.footer-top {
+    margin-top: 90px;
+    height: 150px;
+    background: linear-gradient(to top, #CCCCCC, #FFFFFF);
+
+}
+.footer {
+    height: 80px;
+    background-color: #CCCCCC;
+}
+.gmail-img {
+    width: 22px;
+    height: 18px;
+    margin-bottom: 3px;
+}
